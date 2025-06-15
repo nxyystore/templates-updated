@@ -576,7 +576,7 @@
   {
     "id": "zipline",
     "name": "Zipline",
-    "version": "v3.7.9",
+    "version": "v4.1.2",
     "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!",
     "logo": "zipline.png",
     "links": {
@@ -1974,13 +1974,13 @@
   {
     "id": "bytestash",
     "name": "ByteStash",
-    "version": "latest",
+    "version": "1.5.8",
     "description": "ByteStash is a self-hosted file storage solution that allows you to store and share files with ease. It provides a simple and effective solution for storing and accessing files from anywhere.",
     "logo": "logo.png",
     "links": {
-      "github": "https://github.com/bytestash/bytestash",
-      "website": "https://bytestash.com",
-      "docs": "https://bytestash.com/docs"
+      "github": "https://github.com/jordan-dalby/ByteStash",
+      "website": "https://bytestash-demo.pikapod.net",
+      "docs": "https://bytestash-demo.pikapod.net/api-docs/"
     },
     "tags": ["file-storage", "self-hosted"]
   },
