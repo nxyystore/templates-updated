@@ -13,5 +13,3 @@ host = "${main_domain}"
 [config.env]
 ZIPLINE_PORT = "3000"
 ZIPLINE_SECRET = "${secret_base}"
-ZIPLINE_RETURN_HTTPS = "false"
-ZIPLINE_LOGGER = "true"
