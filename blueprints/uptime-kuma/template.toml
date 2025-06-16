@@ -7,5 +7,5 @@ mounts = []
 
 [[config.domains]]
 serviceName = "uptime-kuma"
-port = 3_001
+port = 3001
 host = "${main_domain}"
