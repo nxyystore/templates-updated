@@ -7,5 +7,5 @@ mounts = []
 
 [[config.domains]]
 serviceName = "trilium"
-port = 8_080
+port = 8080
 host = "${main_domain}"
