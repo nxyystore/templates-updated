@@ -5,7 +5,7 @@ totp_key = "${base64:32}"
 
 [[config.domains]]
 serviceName = "plausible"
-port = 8_000
+port = 8000
 host = "${main_domain}"
 
 [config.env]
